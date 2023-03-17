@@ -18,7 +18,7 @@ You should see this on your CMD. If you don't see anything or an error, then you
 ![image](https://user-images.githubusercontent.com/38461122/225559668-b58af4eb-6bec-469d-9b17-e909f9ce1b58.png)
 
 Q: What is that ```prompt``` thing on the bottom?  
-A: I wrote this script so I can grab the tags of an uploaded image on danbooru easily and then throw them altogether into a Stable Diffusion prompt (it might not look like a good prompt, but could be useful as a starting point).
+A: I wrote this script so I can easily grab the tags of an on danbooru and then throw them altogether into a Stable Diffusion prompt (it might not look like a good prompt, but could be useful as a starting point).
 
 Q: Does this work on Linux/Windows?  
-A: I wrote this on Windows but should work on Linux too, as there are no OS-specific command in the script other than ```cls``` and ```clear```.
+A: I wrote this on Windows but should work on Linux too as there is no OS-specific command in the script other than ```cls``` and ```clear```.
